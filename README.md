@@ -7,7 +7,7 @@
 
 > 🇵🇹 Nota: projeto pessoal, em português de Portugal. O jogo é o Super Mario 64 (USA) a correr de forma nativa no Android, com controlos de toque estilo Nintendo Switch.
 
-![Super Mario 64 — cover art](docs/cover.jpg)
+![Super Mario 64 — cover art](cover.jpg)
 
 ## What it is
 
@@ -25,6 +25,12 @@ This repository is a **snapshot of the v12 build state** — the upstream submod
 - **No error popups** — diagnostics are written to files only, never shown on screen
 - **ROM import in the app** — your own USA ROM is validated (SHA-1 + MD5 + size) and stored privately
 - **Saves kept** — installing a new version over the old one keeps your saves and your imported ROM
+
+## Screenshots
+
+| Launcher | Gameplay |
+|---|---|
+| ![Launcher screen](launcher.jpg) | ![Super Mario 64 gameplay](title.jpg) |
 
 ## Requirements
 
