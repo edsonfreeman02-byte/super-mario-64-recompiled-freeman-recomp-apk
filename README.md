@@ -26,12 +26,6 @@ This repository is a **snapshot of the v12 build state** — the upstream submod
 - **ROM import in the app** — your own USA ROM is validated (SHA-1 + MD5 + size) and stored privately
 - **Saves kept** — installing a new version over the old one keeps your saves and your imported ROM
 
-## Screenshots
-
-| Launcher | Title screen |
-|---|---|
-| ![Launcher](docs/screenshots/launcher.jpg) | ![Title screen](docs/screenshots/title.jpg) |
-
 ## Requirements
 
 - Android 7.0+ (API 24), ARM64 (arm64-v8a) — tested on iQOO Neo 5 (Snapdragon 870, Adreno 650)
